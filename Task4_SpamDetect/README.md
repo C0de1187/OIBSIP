@@ -51,4 +51,4 @@ The model successfully classifies messages as spam or not spam with good accurac
 ---
 
 ## 👨‍💻 Author
-**Arpit Sharan**
+**Arpit**
